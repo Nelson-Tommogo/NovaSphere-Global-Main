@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production build
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env*
+!.env.example
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Dependency directories
+bower_components/
+
+# TypeScript build output
+dist/
+*.tsbuildinfo
+
+# Coverage reports
+coverage/
+
+# Misc
+*.log
+*.swp
+*.swo
